@@ -1,0 +1,23 @@
+{
+  "name": "falling-blocks",
+  "version": "1.0.0",
+  "description": "a game",
+  "main": "index.js",
+  "author": "Matthew Francis Brunetti <zenflow87@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "mobx": "^5.11.0",
+    "mobx-react-lite": "^1.4.1",
+    "mobx-state-tree": "^3.14.0",
+    "next": "^9.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-no-ssr": "^1.1.0"
+  }
+}
