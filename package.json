@@ -15,7 +15,7 @@
     "mobx": "^5.11.0",
     "mobx-react-lite": "^1.4.1",
     "mobx-state-tree": "^3.14.0",
-    "next": "^9.0.1",
+    "next": "^11.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-no-ssr": "^1.1.0"
